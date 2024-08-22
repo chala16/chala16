@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chalana Kaveesha</h1>
 <h1 align="center">IT22338952</h1>
-
 <h3 align="center">A passionate Software Engineer developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chala16" alt="chala16" /></a> </p>
 
 - 🌱 I’m currently learning **Java, React, React Native, Spring Boot**
 
