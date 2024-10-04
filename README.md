@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java, React, React Native**
 
-- 💬 Ask me about **React, Spring Boot, React Native**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **chalanakaveeshami@gmail.com**
 
