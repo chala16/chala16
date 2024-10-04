@@ -2,7 +2,7 @@
 <h1 align="center">IT22338952</h1>
 <h3 align="center">A passionate Software Engineer developer</h3>
 
-- 🌱 I’m currently learning **Java, React, React Native, Spring Boot**
+- 🌱 I’m currently learning **Java, React, React Native**
 
 - 💬 Ask me about **React, Spring Boot, React Native**
 
